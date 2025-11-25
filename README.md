@@ -27,6 +27,3 @@ These tools support VIC by integrating V2I communication to enhance traffic opti
   - Matplotlib
   - Seaborn (for visualizations)
 
-Install dependencies using:
-```bash
-pip install numpy scipy pandas matplotlib seaborn
